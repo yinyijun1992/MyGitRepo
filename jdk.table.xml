@@ -1,0 +1,59 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.5.1 (D:\Python\Anaconda3\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.1" />
+      <homePath value="D:\Python\Anaconda3\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://D:/Python/Anaconda3/DLLs" />
+            <root type="simple" url="file://D:/Python/Anaconda3/Lib" />
+            <root type="simple" url="file://D:/Python/Anaconda3" />
+            <root type="simple" url="file://D:/Python/Anaconda3/Lib/site-packages" />
+            <root type="simple" url="file://D:/Python/Anaconda3/Lib/site-packages/Sphinx-1.3.5-py3.5.egg" />
+            <root type="simple" url="file://D:/Python/Anaconda3/Lib/site-packages/win32" />
+            <root type="simple" url="file://D:/Python/Anaconda3/Lib/site-packages/win32/lib" />
+            <root type="simple" url="file://D:/Python/Anaconda3/Lib/site-packages/pythonwin" />
+            <root type="simple" url="jar://D:/Python/Anaconda3/Lib/site-packages/setuptools-20.3-py3.5.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/537167425" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.12 (D:\Python\Anaconda3\envs\Py2\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.12" />
+      <homePath value="D:\Python\Anaconda3\envs\Py2\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://D:/Python/Anaconda3/envs/Py2/DLLs" />
+            <root type="simple" url="file://D:/Python/Anaconda3/envs/Py2/Lib" />
+            <root type="simple" url="file://D:/Python/Anaconda3/envs/Py2/Lib/lib-tk" />
+            <root type="simple" url="file://D:/Python/Anaconda3/envs/Py2" />
+            <root type="simple" url="file://D:/Python/Anaconda3/envs/Py2/Lib/site-packages" />
+            <root type="simple" url="file://D:/Python/Anaconda3/envs/Py2/Lib/site-packages/Sphinx-1.4.1-py2.7.egg" />
+            <root type="simple" url="file://D:/Python/Anaconda3/envs/Py2/Lib/site-packages/win32" />
+            <root type="simple" url="file://D:/Python/Anaconda3/envs/Py2/Lib/site-packages/win32/lib" />
+            <root type="simple" url="file://D:/Python/Anaconda3/envs/Py2/Lib/site-packages/pythonwin" />
+            <root type="simple" url="jar://D:/Python/Anaconda3/envs/Py2/Lib/site-packages/setuptools-23.0.0-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/15224206" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
